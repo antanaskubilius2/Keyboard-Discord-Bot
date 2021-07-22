@@ -1,0 +1,10 @@
+{
+  "name": "slappy",
+  "version": "1.0.0",
+  "description": "hapi plugin to redirect http to https based on x-forwarded-proto",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": ["hapi", "https", "redirect"],
+  "author": "Nathan LaFreniere <quitlahok@gmail.com>",
+  "license": "MIT"
+}
